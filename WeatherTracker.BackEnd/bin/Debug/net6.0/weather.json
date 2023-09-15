@@ -8,5 +8,8 @@
 	{"WindSpeed":23.99,"WindDirection":210.22,"SensorName":"Vaisala WMT700","DateTime":"2023-09-15T14:33:50.0530505+03:00"},
 	{"WindSpeed":12.23,"WindDirection":110.11,"SensorName":"Vaisala WMT700","DateTime":"2023-09-15T14:34:15.2322832+03:00"},
 	{"WindSpeed":11.23,"WindDirection":351.11,"SensorName":"Vaisala WMT700","DateTime":"2023-09-15T14:34:35.4171102+03:00"},
-	{"WindSpeed":12.3,"WindDirection":333.0,"SensorName":"Vaisala WMT700","DateTime":"2023-09-15T14:35:31.2268273+03:00"}
+	{"WindSpeed":12.3,"WindDirection":333.0,"SensorName":"Vaisala WMT700","DateTime":"2023-09-15T14:35:31.2268273+03:00"},
+	{"WindSpeed":12.3,"WindDirection":333.0,"SensorName":"Vaisala WMT700","DateTime":"2023-09-15T16:37:09.493556+03:00"},
+	{"WindSpeed":12.3,"WindDirection":333.0,"SensorName":"Vaisala WMT700","DateTime":"2023-09-15T16:37:12.4841765+03:00"},
+	{"WindSpeed":12.3,"WindDirection":333.0,"SensorName":"Vaisala WMT700","DateTime":"2023-09-15T16:37:15.5091633+03:00"}
 ]
